@@ -1,5 +1,6 @@
 public class NewClass {
-    private String a = "abc";
+    private String a = "abcsgjsgsghaigh";
+    private int x = 15;
 
     public NewClass(String a) {
         this.a = a;
