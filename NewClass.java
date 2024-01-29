@@ -1,5 +1,5 @@
 public class NewClass {
-    private String a = "a";
+    private String a = "abc";
 
     public NewClass(String a) {
         this.a = a;
